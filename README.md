@@ -11,3 +11,4 @@ Solutions for Cracking the Coding Interview 6th Edition by Gayle Laakmann McDowe
 2) Method that determine if a String has all unique characters
 3) Method that replace all spaces in a String with '%20'
 4) Method that check if a String is a permutation of a palindrome
+5) Method that check if two strings are one edit away (one insert, one delete or one replace)
